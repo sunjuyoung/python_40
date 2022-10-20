@@ -4,6 +4,9 @@ from selenium.webdriver.common.keys import Keys
 import urllib.request
 import time
 
+## chrome://version 
+## https://chromedriver.chromium.org/downloads
+
 search = '강아지'
 fileName = './dog/dog_image'
 number = 30
